@@ -1,0 +1,8 @@
+CHASE/mask/Image_11L.jpg
+CHASE/mask/Image_11R.jpg
+CHASE/mask/Image_12L.jpg
+CHASE/mask/Image_12R.jpg
+CHASE/mask/Image_13L.jpg
+CHASE/mask/Image_13R.jpg
+CHASE/mask/Image_14L.jpg
+CHASE/mask/Image_14R.jpg

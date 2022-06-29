@@ -1,0 +1,10 @@
+STARE/mask/im0001.ppm
+STARE/mask/im0002.ppm
+STARE/mask/im0003.ppm
+STARE/mask/im0004.ppm
+STARE/mask/im0005.ppm
+STARE/mask/im0044.ppm
+STARE/mask/im0077.ppm
+STARE/mask/im0081.ppm
+STARE/mask/im0082.ppm
+STARE/mask/im0139.ppm

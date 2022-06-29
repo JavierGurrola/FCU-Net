@@ -1,0 +1,10 @@
+STARE/images/im0001.ppm
+STARE/images/im0002.ppm
+STARE/images/im0003.ppm
+STARE/images/im0004.ppm
+STARE/images/im0005.ppm
+STARE/images/im0044.ppm
+STARE/images/im0077.ppm
+STARE/images/im0081.ppm
+STARE/images/im0082.ppm
+STARE/images/im0139.ppm

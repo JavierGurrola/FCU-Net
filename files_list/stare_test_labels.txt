@@ -1,0 +1,10 @@
+STARE/1st_manual/im0162.ah.ppm
+STARE/1st_manual/im0163.ah.ppm
+STARE/1st_manual/im0235.ah.ppm
+STARE/1st_manual/im0236.ah.ppm
+STARE/1st_manual/im0239.ah.ppm
+STARE/1st_manual/im0240.ah.ppm
+STARE/1st_manual/im0255.ah.ppm
+STARE/1st_manual/im0291.ah.ppm
+STARE/1st_manual/im0319.ah.ppm
+STARE/1st_manual/im0324.ah.ppm
