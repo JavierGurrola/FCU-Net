@@ -1,0 +1,44 @@
+---
+model:
+  base filters: 16
+  dropout rate: 0.3
+train:
+  patch size: 48
+  batch size: 64
+  learning rate: 1.e-3
+  weight decay: 2.e-2
+  augment dataset: true
+  scheduler gamma: 0.975
+  scheduler step: 10
+  epochs: 60
+  dataset splits: 10
+  device: cuda:0
+  datasets:
+    - 'drive'
+    - 'stare'
+    - 'chase'
+  verbose: true
+  multi gpu: false
+  workers: 10
+  training files path: '../files_list'
+  dataset path: '../dataset_processed'
+  checkpoint path: '../checkpoints'
+val:
+  frequency: 1
+  patch size: 64
+  batch size: 64
+  workers: 10
+test:
+  device: cuda:0
+  label: 1st_manual # 2nd_manual
+  padding: true
+  datasets:
+    - 'drive'
+    - 'stare'
+    - 'chase'
+  testing files path: '../files_list'
+  dataset path: '../dataset_processed'
+  results path: '../results'
+  pretrained models path: '../pretrained'
+  save images: true
+...
